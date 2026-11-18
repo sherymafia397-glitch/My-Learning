@@ -28,7 +28,7 @@ int main(){
      n=10;
       //printArray(fourth,10);
      int fifth[10]={1,1,1,1,1,1,1,1,1,1};
-     n=10;
+     n=5;
       //printArray(fifth,10);
       int fifthsize=sizeof(fifth)/sizeof(int);
       cout<<"size of fifth is\n"<<fifthsize<<endl;
